@@ -4,7 +4,7 @@ Materia: Programación II – 1° Trabajo Práctico.
 
 Profesor: Ing. Tulio Ruesjas Martín.
 
-Fecha de Entrega : 13 de abril de 2026
+Fecha de Entrega: 13 de abril de 2026
 
 Nombre y Apellido del Alumno: LEIVA OMAR
 

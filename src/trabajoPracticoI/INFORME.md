@@ -18,4 +18,4 @@ en el temario 4 me daba error el nombre de la variable "año". Entoces tuve que 
 
 en el punto IV y V le tuve que pedir ayuda a la AI de google para que me ayude a estructurar las condicionales
 
-en el punto VI no me sumaban y era por que tenia que poner ++ al final 
+en el punto VI no me sumaban y era por que tenia qu poner ++ al final 
